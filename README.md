@@ -7,3 +7,8 @@ Burmese characters are formed by combining glyphs. A glyph is a (Unicode) charac
 ## How to install
 
 [How to install plugins on YouTube](https://www.youtube.com/watch?v=ym_qA6hO5d0)
+
+## See also
+
+* Commercial product [RPGMaker MV](https://www.rpgmakerweb.com/products/rpg-maker-mv)
+* MIT Licensed [Corescript](https://github.com/rpgtkoolmv/corescript)
