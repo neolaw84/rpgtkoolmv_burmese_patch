@@ -6,4 +6,4 @@ Burmese characters are formed by combining glyphs. A glyph is a (Unicode) charac
 
 ## How to install
 
-[Installation of plugins](https://www.youtube.com/watch?v=ym_qA6hO5d0)
+[How to install plugins on YouTube](https://www.youtube.com/watch?v=ym_qA6hO5d0)
